@@ -111,6 +111,9 @@ Ready to use in reports, presentations, or as portfolio projects.
 
 ## OUTPUTS
 
+# RUNNING OUTPUT FROM VSCODE
+![Image](https://github.com/user-attachments/assets/10650296-427c-4bfb-b4ea-0df48cd7167e)
+
 # OUTPUT-1
 
 ![Image](https://github.com/user-attachments/assets/fca7ddcf-9c96-4492-ba73-3842a5055a35)
