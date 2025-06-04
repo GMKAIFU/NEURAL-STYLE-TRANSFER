@@ -1,20 +1,22 @@
-#  NEURAL STYLE TRANSFER  
-
-**Company:** CodTech IT Solutions  
-**Intern Name:** G M Kaifu  
-**Intern ID:** CT06DN1863  
-**Domain:** Artificial Intelligence  
-**Duration:** 6 Weeks  
-**Mentor:** Neela Santosh  
+# NEURAL STYLE TRANSFER
 
 ---
 
-## 📌 Project Title  
+**COMPANY:**  CODTECH IT SOLUTIONS  
+**NAME:**  G M KAIFU  
+**INTERN ID:**  CT06DN1863  
+**DOMAIN:**  ARTIFICIAL INTELLIGENCE  
+**DURATION:**  6 WEEKS  
+**MENTOR:**  NEELA SANTOSH
+
+---
+
+## 📌 PROJECT TITLE  
 **Implement a Neural Style Transfer Model to Apply Artistic Styles to Photographs**
 
 ---
 
-##  DESCRIPTION:
+##  DESCRIPTION
 
 This project focuses on implementing a Neural Style Transfer (NST) model using TensorFlow and TensorFlow Hub to apply various artistic styles to user-supplied photographs. The goal is to develop a working Python script that takes one or more content images (photographs) and applies multiple artistic styles (like famous paintings) to generate stylized outputs automatically.
 
@@ -29,7 +31,8 @@ This project not only demonstrates my understanding of deep learning and image p
 
 ---
 
-##  Tools Used  
+##  TOOLS USED  
+
 - **Python 3.7+**
  
 - **TensorFlow 2.x**
@@ -44,11 +47,10 @@ This project not only demonstrates my understanding of deep learning and image p
 
 ---
 
-## 🔌 Required Python Modules
+##  REQUIRED PYTHON MODULES
 
 Install all modules using pip:
 
-```bash
 pip install tensorflow tensorflow-hub pillow numpy
 
 tensorflow>=2.0.0
@@ -59,7 +61,9 @@ pillow
 
 numpy
 
-Important Module Links
+
+# Important Module Links:
+
 📦 TensorFlow
 https://www.tensorflow.org/install
 
@@ -72,7 +76,8 @@ https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2
 🧠 Magenta Project (by Google Brain):
 https://magenta.tensorflow.org/
 
-# Sample Artistic Style Images
+# Sample Artistic Style Images:
+
 These are the sample style images used:
 
 Starry Night: starry.png
@@ -96,27 +101,34 @@ The model outputs a new image that looks like the photo painted in the style.
 
 This is repeated for all content-style combinations automatically.
 
- Outputs
+_OUTPUT SAVED_
+
 Saved automatically inside the stylized_outputs folder.
 
 Named like: output1.jpg, output2.jpg, output3.jpg, etc.
 
 Ready to use in reports, presentations, or as portfolio projects.
 
+## OUTPUTS
 
 # OUTPUT-1
+
 ![Image](https://github.com/user-attachments/assets/fca7ddcf-9c96-4492-ba73-3842a5055a35)
 
 # OUTPUT-2
+
 ![Image](https://github.com/user-attachments/assets/b09f0314-1b4a-4aba-bd06-700dd2e715d3)
 
 # OUTPUT-3
+
 ![Image](https://github.com/user-attachments/assets/e4236be6-dbe4-403a-8d9e-90c33996b03a)
 
 # OUTPUT-4
+
 ![Image](https://github.com/user-attachments/assets/2d940e7f-7c24-4c11-9878-784ec105c9b8)
 
 # OUTPUT-5
+
 ![Image](https://github.com/user-attachments/assets/9b5cc1fc-4278-4c51-82b2-b11676da5780)
 
 # OUTPUT-6
